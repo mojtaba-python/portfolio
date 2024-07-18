@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('../fonts/Vazir.eot');
+    src: url('../fonts/Vazir.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Vazir.woff2') format('woff2'),
+        url('../fonts/Vazir.woff') format('woff'),
+        url('../fonts/Vazir.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.MuiCard-root::-webkit-scrollbar {
+    display: none;
+}
+
+.MuiBox-root::-webkit-scrollbar {
+    display: none;
+}
+
+.MuiGrid-root::-webkit-scrollbar {
+    display: none;
+}
+
+.Tab_P1:hover {
+    background-color: rgb(252, 131, 1) !important;
+    color: rgb(3, 16, 40) !important;
+}
+
+.Social_media:hover {
+    color: rgb(252, 131, 1) !important;
+}
+
+.div_Resume {
+   
+    border-radius: 10px;
+    box-shadow: 2px 2px 17px 0px rgba(255,255, 255, 0.2);
+    padding: 10px;
+    backdrop-filter:blur(6px);
+}
