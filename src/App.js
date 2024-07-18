@@ -6,7 +6,7 @@ import TabPanel from "./components/Tabs/TabPanel";
 import { ReactTyped } from "react-typed";
 import { Box, Typography } from "@mui/material";
 import page1 from "./assets/pic3.jpg";
-import SwipeableViews from "react-swipeable-views";
+import SwipeableViews from "react-swipeable-views-v18";
 import About from "./components/About";
 import Resume from "./components/Resume";
 import Comments from "./components/Comments";

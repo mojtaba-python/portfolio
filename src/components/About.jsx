@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
 import bg from "../assets/pic5.jpg";
-import { Card, CardContent, Chip, Divider, Grid, Typography, Avatar } from "@mui/material";
+import { Card, CardContent, Chip, Divider, Grid, Typography } from "@mui/material";
 import { CodeRounded, SelfImprovementRounded } from "@mui/icons-material";
 import { orange } from "@mui/material/colors";
 import AboutInfo from "./Tabs/AboutInfo";
