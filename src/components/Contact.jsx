@@ -65,7 +65,7 @@ const Contact = () => {
                     </Chip>
                 </Divider>
 
-                <Grid container sx={{ mt: 5 }}>
+                <Grid container sx={{ mt: 5, direction:"rtl" }}>
                     <Slide
                         direction="up"
                         in={loading}

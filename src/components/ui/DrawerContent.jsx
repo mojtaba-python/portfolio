@@ -10,7 +10,7 @@ import {
 } from "@mui/material";
 import {
     HomeRounded, PersonOutline,
-    TextSnippetRounded, TerminalRounded, MessageRounded,
+    TextSnippetRounded, MessageRounded,
     ConnectWithoutContactRounded, CopyrightRounded,
     GitHub,
     Instagram,

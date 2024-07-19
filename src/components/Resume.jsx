@@ -23,7 +23,7 @@ const Resume = () => {
             <Helmet>
                 <title>رزومه من</title>
             </Helmet>
-            <CardContent>
+            <CardContent sx={{direction:"rtl"}}>
                 <Divider textAlign="center" color="whitesmoke"
                     sx={{
                         "&::before, &::after": {

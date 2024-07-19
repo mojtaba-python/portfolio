@@ -107,7 +107,7 @@ const About = () => {
                     </Grid>
                    
                 </Grid>
-                <Grid container>
+                <Grid container sx={{direction:"rtl"}} >
                     <Grid sx={{ width: 1, mt: 1, backgroundColor: "#0b0e18c4", }} >
                         <Divider textAlign="center" color="whitesmoke"
                             sx={{
