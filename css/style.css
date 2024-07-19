@@ -43,5 +43,7 @@ body {
     border-radius: 10px;
     box-shadow: 2px 2px 17px 0px rgba(255,255, 255, 0.2);
     padding: 10px;
-    backdrop-filter:blur(6px);
+    backdrop-filter:blur(4px);
+    direction:rtl;
+    border: 1px solid black;
 }
