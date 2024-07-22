@@ -46,4 +46,6 @@ body {
     backdrop-filter:blur(4px);
     direction:rtl;
     border: 1px solid black;
+
+    /* color:#444444 */
 }
